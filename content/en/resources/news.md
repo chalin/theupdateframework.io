@@ -9,6 +9,12 @@ cSpell:ignore: Sigstore
 Here are our news highlights. For a complete list, see the [Press](#press)
 section.
 
+**May 2026**
+
+The [European Union Agency for Cybersecurity (ENISA)](https://www.enisa.europa.eu/) published a draft
+[Technical Advisory on Secure Update Mechanisms](https://www.enisa.europa.eu/sites/default/files/2026-05/Draft%20-%20ENISA%20Technical%20Advisory%20-%20Update%20Mechanisms%20-%20v0.6.pdf), offering manufacturers practical guidance on threats and security controls across the software update lifecycle. The advisory's recommendations are consistent with
+recognized practices reflected in TUF, [Uptane](https://uptane.github.io), and NIST SP 800-40.
+
 **June 16, 2021**
 
 The Sigstore community live-streamed a
