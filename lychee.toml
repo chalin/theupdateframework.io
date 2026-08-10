@@ -28,7 +28,6 @@ exclude = [
   '^https://schd\.ws/hosted_files/linuxconcontainerconeurope2016/',        # 403
   '^https://www\.forbes\.com/sites/',                                      # 403
   '^https://www\.tmcnet\.com/usubmit/2019/05/28/8963021\.htm',             # 403
-  '^https://github\.com/bottlerocket-os/bottlerocket/tree/develop/sources/updater', # 404
   '^https://www\.d2pmagazine\.com/2020/04/02/6099/',                       # 404
   '^https://www\.just-auto\.com/news/here-and-uptane-team-on-automotiveiot-security_id188912\.aspx', # 404
   '^https://www\.linuxfoundation\.org/cloud-containers-virtualization/',   # 404
