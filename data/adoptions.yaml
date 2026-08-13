@@ -1,7 +1,7 @@
 main:
   - url: https://web.archive.org/web/20230922074223/https://docs.automotivelinux.org/en/pike/#03_Architecture_Guides/02_Security_Blueprint/09_Update_%28Over_The_Air%29/
     tag: AGL
-  - url: https://github.com/bottlerocket-os/bottlerocket/tree/develop/sources/updater
+  - url: https://github.com/bottlerocket-os/bottlerocket/blob/96bf303df357ac434ebcc619d676ecffa1c9bbcb/PUBLISHING.md#roles-and-keys
     tag: Bottlerocket
   - url: https://github.com/cnabio/cnab-spec/blob/cnab-security-1.0.0-ga/300-CNAB-security.md
     tag: CNAB
