@@ -33,7 +33,6 @@ exclude = [
   '^https://www\.linuxfoundation\.org/cloud-containers-virtualization/',   # 404
   '^https://www\.ustream\.tv/recorded/64499822',                           # 404
   '^https://www\.airbiquity\.com',                                         # 503
-  '^https://www\.nccgroup\.trust/',                                        # timeout
   '^http://www\.enterprisecloudnews\.com/author\.asp',                     # timeout
   '^http://wiki\.laptop\.org/go/Canonical_JSON',                           # 401 bot-wall
   '^https://lcccna2016\.sched\.org/event/7JWU/',                           # 403 bot-wall
