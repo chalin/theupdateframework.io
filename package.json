@@ -54,7 +54,6 @@
     "prettier": "^3.5.3"
   },
   "optionalDependencies": {
-    "netlify-cli": "^27.1.1",
     "npm-check-updates": "^18.0.1"
   },
   "enginesComment": "Ensure that engines.node value stays consistent with the project's .nvmrc",
@@ -67,7 +66,7 @@
     "proseWrap": "always",
     "singleQuote": true
   },
-  "spelling": "cSpell:ignore docsy hugo pkgs netlify precheck postbuild -",
+  "spelling": "cSpell:ignore docsy hugo pkgs precheck postbuild -",
   "overrides": {
     "adm-zip": "^0.6.0"
   }
